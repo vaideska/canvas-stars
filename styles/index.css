@@ -1,0 +1,5 @@
+@import url('../vendor/normalize.css');
+
+canvas {
+  display: block;
+}
